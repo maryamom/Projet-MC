@@ -1,0 +1,5 @@
+# Core dependencies
+matplotlib>=3.5.0
+
+# Optional: pytest for running tests
+pytest>=7.0.0

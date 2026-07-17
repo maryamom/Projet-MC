@@ -1,0 +1,6 @@
+agent1_type,agent2_type,board_size,iterations,seed,agent1_starts,result,agent1_wins,agent2_wins,draws,time,simulations
+RAVE,GRAVE,3,20,42,True,1,1,0,0,0.006994485855102539,160
+RAVE,GRAVE,3,20,43,False,1,1,0,0,0.012039422988891602,160
+RAVE,GRAVE,3,20,44,True,1,1,0,0,0.01000666618347168,160
+RAVE,GRAVE,3,20,45,False,-1,0,1,0,0.008992433547973633,160
+RAVE,GRAVE,3,20,46,True,-1,0,1,0,0.011000633239746094,160

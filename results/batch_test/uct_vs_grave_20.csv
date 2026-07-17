@@ -1,0 +1,6 @@
+agent1_type,agent2_type,board_size,iterations,seed,agent1_starts,result,agent1_wins,agent2_wins,draws,time,simulations
+UCT,GRAVE,3,20,42,True,1,1,0,0,0.012003660202026367,160
+UCT,GRAVE,3,20,43,False,1,1,0,0,0.00903177261352539,160
+UCT,GRAVE,3,20,44,True,-1,0,1,0,0.007966756820678711,160
+UCT,GRAVE,3,20,45,False,-1,0,1,0,0.006003141403198242,160
+UCT,GRAVE,3,20,46,True,-1,0,1,0,0.010036230087280273,160

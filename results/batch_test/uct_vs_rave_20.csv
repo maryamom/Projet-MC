@@ -1,0 +1,6 @@
+agent1_type,agent2_type,board_size,iterations,seed,agent1_starts,result,agent1_wins,agent2_wins,draws,time,simulations
+UCT,RAVE,3,20,42,True,1,1,0,0,0.010957717895507812,160
+UCT,RAVE,3,20,43,False,1,1,0,0,0.007036685943603516,160
+UCT,RAVE,3,20,44,True,-1,0,1,0,0.008998632431030273,160
+UCT,RAVE,3,20,45,False,-1,0,1,0,0.006003141403198242,160
+UCT,RAVE,3,20,46,True,-1,0,1,0,0.009998559951782227,160
